@@ -1,3 +1,3 @@
-# MDC-101 for Material Components for Android (Kotlin)
+# Flasale Material Components (Kotlin)
 
-Contains starter code structure for the MDC-101 Kotlin codelab.
+Flasale is a future application for flash sale tracker in online market place.
